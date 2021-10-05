@@ -1,9 +1,7 @@
 ﻿using GuessWord.Extensions;
 using GuessWord.Models;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace GuessWord.Services
 {
